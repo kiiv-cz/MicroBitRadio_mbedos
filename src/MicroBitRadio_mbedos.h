@@ -58,7 +58,7 @@ DEALINGS IN THE SOFTWARE.
 
 // Default configuration values
 #define MICROBIT_RADIO_BASE_ADDRESS             0x75626974 // ubit
-#define MICROBIT_RADIO_DEFAULT_GROUP            111
+#define MICROBIT_RADIO_DEFAULT_GROUP            0
 #define MICROBIT_RADIO_DEFAULT_TX_POWER         7
 #define MICROBIT_RADIO_DEFAULT_FREQUENCY        7
 #define MICROBIT_RADIO_MAX_PACKET_SIZE          32
